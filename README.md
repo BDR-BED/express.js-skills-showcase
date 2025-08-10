@@ -2,7 +2,7 @@
 
 A simple Node.js project demonstrating core skills and best practices, including how to correctly configure `.gitignore` to exclude `node_modules` and avoid common pitfalls.
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 ---
 
