@@ -1,43 +1,34 @@
-# 🚀 Node.js Project with Proper `.gitignore` Setup
+# 🚀 Express.js Skills Showcase
 
-A simple Node.js project demonstrating core skills and best practices, including how to correctly configure `.gitignore` to exclude `node_modules` and avoid common pitfalls.
+A comprehensive Express.js project demonstrating essential features and advanced capabilities, designed to highlight backend skills with Node.js and Express.
 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
----
-
-## 📋 Project Overview
-
-This project showcases:
-
-- Basic Node.js setup and execution
-- Correct `.gitignore` usage to prevent committing `node_modules`
-- How to clean up already tracked `node_modules` in Git
-- Practical example of best Git workflow with Node.js
 
 ---
 
-## 🛠️ Features
+## 🌟 Features Demonstrated
 
-| Feature                       | Description                                             |
-|------------------------------|---------------------------------------------------------|
-| 🟢 `.gitignore` Configuration | Ignores `node_modules/` folder to keep repo clean      |
-| 🔄 Cache Cleanup              | Remove cached `node_modules` if already committed       |
-| ⚙️ Node.js Basics             | Simple Node.js script showcasing environment variables, file system, and more |
-| 🔍 Troubleshooting Tips       | Common causes why `.gitignore` may not work and fixes   |
+| Category                  | Description                                                      |
+|---------------------------|------------------------------------------------------------------|
+| 📡 HTTP Server Setup       | Basic server creation and routing                                |
+| 🛠 Middleware Usage        | Built-in and custom middleware for logging, parsing, and errors |
+| 🔄 REST API Endpoints      | CRUD operations with JSON request/response handling             |
+| 🔐 Authentication Basics  | Simple token-based auth simulation                              |
+| ⚙️ Error Handling          | Centralized error handling middleware                            |
+| 🧩 Static Files Serving    | Serving CSS, JS, images, and other static assets                |
+| 🔀 Router Modularization   | Splitting routes into separate files for cleaner architecture   |
+| 🧪 Async/Await             | Handling async operations with try/catch                        |
+| 🔗 Third-party Integration | Using popular middleware like `cors` and `morgan`               |
 
 ---
 
-## ▶️ How to Run
+## 🗂 Project Structure
 
-Clone the repo and run your Node.js script:
-
-  ```bash
-    git clone https://github.com/BDR-BED/express.js-skills-showcase
-    cd nodejs-project
-    node express.js-skills-showcase.js
-  ```
-
+┣ 📂 public <br>
+┃ ┗ 📜 sample.txt <br>
+┣ 📜 expressjs-skills-showcase.js<br>
+┗ 📜 README.md<br>
 
 ---
 
@@ -45,4 +36,3 @@ Clone the repo and run your Node.js script:
 Created by **Boiko Danulo**  
 
 ---
-
